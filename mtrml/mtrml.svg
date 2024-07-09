@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="255.99998"
+   height="255.99998"
+   viewBox="0 0 33.279998 33.279998"
+   version="1.1"
+   id="svg154"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs158">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.3239999"
+       markerHeight="2.6867051"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview156"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4371945"
+     inkscape:cx="116.54651"
+     inkscape:cy="148.55331"
+     inkscape:window-width="1678"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg154">
+    <sodipodi:guide
+       position="-26.038579,29.752292"
+       orientation="0,627.61163"
+       id="guide393"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1399994,8.0830309"
+       orientation="0,233.77223"
+       id="guide1526"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ac2e44;fill-opacity:1;stroke:none;stroke-width:0.65;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1911"
+     width="33.279999"
+     height="33.279999"
+     x="0"
+     y="-3.5527137e-15" />
+  <path
+     d="M 16.639999,1.4624023e-7 V 21.527706 m -11.9999996,-1 c 0,-6.627421 5.3725826,-11.9999949 11.9999996,-11.9999949 6.627417,0 12,5.3725739 12,11.9999949"
+     stroke="#ffffff"
+     stroke-width="5"
+     fill="none"
+     id="path152"
+     sodipodi:nodetypes="cccsc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+     d="m 4.6399994,20.527706 v 4.669261"
+     id="path1528" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+     d="m 28.639999,20.527706 v 4.669261"
+     id="path1805" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.65;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2.8913164,27.561906 3.492717,-0.02498"
+     id="path1827" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.65;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 26.89364,27.561906 3.492717,-0.02498"
+     id="path1837" />
+  <metadata
+     id="metadata1931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>HK MTR logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
